@@ -1,15 +1,20 @@
-td {
+td, th{
     border: 3px solid navy;
+    border-top-left-radius: 10px;
 }
 table, td, tr, th {
     border: 3px solid burlywood;
 }
 td, th {
     padding: 5px;
+    text-align: center;
 }
 table {
     background-color:aliceblue;
     margin: 90px;
+    border-spacing: 5px;
+
+    
 }
 div {
     background-color: aquamarine; 
@@ -28,4 +33,9 @@ div {
 .titulos {
     color: teal;
     background-color: black;
+}
+.colspan {
+    color: blue;
+    background-color: crimson;
+
 }
