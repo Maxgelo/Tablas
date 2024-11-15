@@ -1,0 +1,31 @@
+td {
+    border: 3px solid navy;
+}
+table, td, tr, th {
+    border: 3px solid burlywood;
+}
+td, th {
+    padding: 5px;
+}
+table {
+    background-color:aliceblue;
+    margin: 90px;
+}
+div {
+    background-color: aquamarine; 
+    width: 500px;
+    height: 230px;;
+    padding: 50px;
+}
+
+.Pam {
+    background-color: blueviolet;
+}
+.Pala {
+    color: teal;
+    background-color: black;
+}
+.titulos {
+    color: teal;
+    background-color: black;
+}
